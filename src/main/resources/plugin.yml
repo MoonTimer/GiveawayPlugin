@@ -1,0 +1,8 @@
+name: Giveaway
+version: '${project.version}'
+main: me.moontimer.giveaway.Giveaway
+api-version: 1.19
+authors: [ MoonTimer ]
+description: Giveaway Plugin
+commands:
+  giveaway:
